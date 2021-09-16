@@ -1,8 +1,8 @@
 {
   "livros": [
-    { "id": 1, "titulo": "Quincas Borbas", "autor": "Machado de Assis" },
-    { "id": 2, "titulo": "Se Eu Ficar", "autor": "Gayle Forman" },
-    { "id": 3, "titulo": "Romances Proibidos", "autor": "Ariovaldo Cesar Junior" },
-    { "id": 4, "titulo": "A menina que roubava livros", "autor": "Markus Zusak" }
+    { "id": 1, "titulo": "Capitães da Areia", "autor": "Jorge Amado" },
+    { "id": 2, "titulo": "Um Amor Sem Palavras", "autor": "Rachel Simon" },
+    { "id": 3, "titulo": "O Diário de Anne Frank", "autor": "Anne Frank" },
+    { "id": 4, "titulo": "Dom Casmurro", "autor": "Machado de Assis" }
   ]
 }
